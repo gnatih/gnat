@@ -12,19 +12,19 @@ $(function(){
     w.removeClass("active");
   });
 
-  $(".works").isotope({
-    getSortData : {
-      title : function($elem){
-        return $elem.find('.title').text();
-      },
+  // $(".works").isotope({
+  //   getSortData : {
+  //     title : function($elem){
+  //       return $elem.find('.title').text();
+  //     },
 
-      year : function($elem){
-        return $elem.attr("data-year");
-      }
-    }
-  });
+  //     year : function($elem){
+  //       return $elem.attr("data-year");
+  //     }
+  //   }
+  // });
 
-  $(".works").isotope( { filter: "*", sortBy: "year title", sortAscending: true });
+  // $(".works").isotope( { filter: "*", sortBy: "year title", sortAscending: true });
 
   $(".element").click(function(e){
     $(".element").removeClass("current");

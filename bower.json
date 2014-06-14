@@ -1,0 +1,30 @@
+{
+  "name": "gnat",
+  "version": "0.1.0",
+  "authors": [
+    "Jayesh Gohel <jayesh.gohel@gmail.com>"
+  ],
+  "description": "Portfolio of works",
+  "keywords": [
+    "gnat",
+    "jayesh gohel"
+  ],
+  "license": "MIT",
+  "homepage": "http://gnat.pencilheadz.net",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "isotope": "~2.0.0",
+    "antiscroll": "*",
+    "jquery-mousewheel": "~3.1.11",
+    "angularjs": "*",
+    "angular": "~1.2.17",
+    "angular-resource": "~1.2.17"
+  }
+}

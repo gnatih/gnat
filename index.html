@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html ng-app="gnat">
+<head>
+  <title></title>
+  <!-- build:css style.min.css -->
+  <link rel="stylesheet" href="css/style.css">
+  <!-- endbuild -->
+</head>
+<body>
+<div id="wrapper" ng-controller="listController">
+  <div id="left">
+    <div id="sitename">gnat.in</div>
+    <div id="sort">
+    <ul class="sort">
+      <li><a href="#title">title</a></li>
+      <li><a href="#year" class="chosen">year</a></li>
+    </ul>
+    </div>
+    <div id="filters">
+      <?php print $filters ?>
+    </div>
+    
+    <div class="box-wrap antiscroll-wrap">
+      <div class="box">
+        <div class="antiscroll-inner">
+          <div class="box-inner works" iso-grid>
+            <div ng-repeat="work in works" class="element">
+              <div class="content" data-href="{{ work.l }}" data-year="{{ work.y }}">
+                <div class="title">{{ work.t }}</div>
+                <div class="description">{{ work.d }}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="colophon">
+      built using html + css + jquery | updated: <?php print date ("jS M Y", filemtime("works.json")) ?>
+    </div>
+  </div>
+  <div id="right">
+    <div class="cover"></div>
+    <iframe src="" frameborder="0"></iframe>
+  </div>
+</div>
+
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<!-- build:js script.js -->
+<script src="bower_components/angular/angular.min.js"></script>
+<script src="bower_components/angular-resource/angular-resource.min.js"></script>
+<script src="bower_components/isotope/dist/isotope.pkgd.min.js" type="text/javascript" charset="utf-8" async defer></script>
+<script src="bower_components/antiscroll/antiscroll.js"></script>
+<script src="bower_components/jquery-mousewheel/jquery.mousewheel.min.js"></script>
+<script src="js/app.js"></script>
+<script src="js/script.js"></script>
+<!-- endbuild -->  
+</html>

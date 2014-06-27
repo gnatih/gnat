@@ -12,28 +12,26 @@
     <div id="sitename">gnat.in</div>
     <div id="sort">
     <ul class="sort">
-      <li><a href="#title">title</a></li>
-      <li><a href="#year" class="chosen">year</a></li>
+      <li><a href="#title" ng-click="sortBy('title')">title</a></li>
+      <li><a href="#year" ng-click="sortBy('year')" class="chosen">year</a></li>
     </ul>
     </div>
     <div id="filters">
       <?php print $filters ?>
     </div>
     
-    <div class="box-wrap antiscroll-wrap">
-      <div class="box">
-        <div class="antiscroll-inner">
-          <div class="box-inner works" iso-grid>
-            <div ng-repeat="work in works" class="element">
-              <div class="content" data-href="{{ work.l }}" data-year="{{ work.y }}">
-                <div class="title">{{ work.t }}</div>
-                <div class="description">{{ work.d }}</div>
-              </div>
-            </div>
-          </div>
+      <div class="list">
+
+      <div ng-repeat="work in works" class="element" data-href="{{ work.l }}" data-year="{{ work.y }}">
+        <div class="content">
+          <div class="title">{{ work.t }}</div>
+          <div class="description">{{ work.d }}</div>
         </div>
       </div>
-    </div>
+        
+      </div>
+
+
     
     <div class="colophon">
       built using html + css + jquery | updated: <?php print date ("jS M Y", filemtime("works.json")) ?>

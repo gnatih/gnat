@@ -18,7 +18,7 @@ body { font-family: "shanti", sans-serif; }
 
   @include box-shadow(#666 0 0 10px);
   @include transition();
-  @include transform(translateX(-290px));
+  // @include transform(translateX(-290px));
 }
 
 #left ul, #left li { margin:0; padding:0; font-size:11px; }

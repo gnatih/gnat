@@ -1,466 +1,468 @@
-{
-  "t": "Conference Website",
-  "d": "National Conference on Emerging mechanisms and responses of cities to climate change",
-  "y": 2013,
-  "k": [
-    "javascript",
-    "css",
-    "experiment"
-  ],
-  "l": "http://acccrnindia.com"
-},
-{
-  "t": "Ushahidi for TARU",
-  "d": "Customizing the Ushahidi Platform for TARU",
-  "y": 2013,
-  "k": [
-    "ushahidi",
-    "javascript",
-    "css",
-    "ongoing",
-    "experiment"
-  ],
-  "l": "http://ushahidi.openmap.in"
-},
-{
-  "t": "The Nature of ..",
-  "d": "Portfolio website for Jignesh Khakhar",
-  "y": 2013,
-  "k": [
-    "drupal",
-    "javascript",
-    "featured",
-    "ongoing",
-    "experiment"
-  ],
-  "l": "http://thenatureof.merasite.in"
-},
-{
-  "t": "UHCRC",
-  "d": "Urban Health and Climate Resilience Center",
-  "y": 2013,
-  "k": [
-    "drupal",
-    "design",
-    "featured",
-    "completed"
-  ],
-  "l": "http://uhcrc.org"
-},
-{
-  "t": "Alta Vista International FZE",
-  "d": "Trading firm based in Dubai",
-  "y": 2013,
-  "k": [
-    "drupal",
-    "design",
-    "completed"
-  ],
-  "l": "http://altavista.ae"
-},
-{
-  "t": "Signare Design Studio",
-  "d": "Architectural Design firm based in Bangalore",
-  "y": 2013,
-  "k": [
-    "drupal",
-    "architects",
-    "ongoing"
-  ],
-  "l": "http://signare.in"
-},
-{
-  "t": "Thermal Comfort Competition",
-  "d": "Website for a Design Competition",
-  "y": 2013,
-  "k": [
-    "drupal",
-    "featured",
-    "ngo",
-    "completed"
-  ],
-  "l": "http://thermalcomfort.co.in"
-},
+[
+    {
+      "t": "Conference Website",
+      "d": "National Conference on Emerging mechanisms and responses of cities to climate change",
+      "y": 2013,
+      "k": [
+        "javascript",
+        "css",
+        "experiment"
+      ],
+      "l": "http://acccrnindia.com"
+    },
+    {
+      "t": "Ushahidi for TARU",
+      "d": "Customizing the Ushahidi Platform for TARU",
+      "y": 2013,
+      "k": [
+        "ushahidi",
+        "javascript",
+        "css",
+        "ongoing",
+        "experiment"
+      ],
+      "l": "http://ushahidi.openmap.in"
+    },
+    {
+      "t": "The Nature of ..",
+      "d": "Portfolio website for Jignesh Khakhar",
+      "y": 2013,
+      "k": [
+        "drupal",
+        "javascript",
+        "featured",
+        "ongoing",
+        "experiment"
+      ],
+      "l": "http://thenatureof.merasite.in"
+    },
+    {
+      "t": "UHCRC",
+      "d": "Urban Health and Climate Resilience Center",
+      "y": 2013,
+      "k": [
+        "drupal",
+        "design",
+        "featured",
+        "completed"
+      ],
+      "l": "http://uhcrc.org"
+    },
+    {
+      "t": "Alta Vista International FZE",
+      "d": "Trading firm based in Dubai",
+      "y": 2013,
+      "k": [
+        "drupal",
+        "design",
+        "completed"
+      ],
+      "l": "http://altavista.ae"
+    },
+    {
+      "t": "Signare Design Studio",
+      "d": "Architectural Design firm based in Bangalore",
+      "y": 2013,
+      "k": [
+        "drupal",
+        "architects",
+        "ongoing"
+      ],
+      "l": "http://signare.in"
+    },
+    {
+      "t": "Thermal Comfort Competition",
+      "d": "Website for a Design Competition",
+      "y": 2013,
+      "k": [
+        "drupal",
+        "featured",
+        "ngo",
+        "completed"
+      ],
+      "l": "http://thermalcomfort.co.in"
+    },
 
-{
-  "t": "Clay Club",
-  "d": "Ceramics, Hand-made paper and Architecture",
-  "y": 2012,
-  "k": [
-    "drupal",
-    "completed"
-  ],
-  "l": "http://clayclub.in"
-},
+    {
+      "t": "Clay Club",
+      "d": "Ceramics, Hand-made paper and Architecture",
+      "y": 2012,
+      "k": [
+        "drupal",
+        "completed"
+      ],
+      "l": "http://clayclub.in"
+    },
 
-{
-  "t": "NC Architects",
-  "d": "Architectural Design firm based in Ahmedabad",
-  "y": 2013,
-  "k": [
-    "html",
-    "css",
-    "php",
-    "design",
-    "architects",
-    "completed"
-  ],
-  "l": "http://ncarchitects.in"
-},
-{
-  "t": "Images and Imprints",
-  "d": "Exhibition website for Prof. Miki Desai",
-  "y": 2013,
-  "k": [
-    "drupal",
-    "design",
-    "featured",
-    "completed"
-  ],
-  "l": "http://imagesandimprints.com"
-},
+    {
+      "t": "NC Architects",
+      "d": "Architectural Design firm based in Ahmedabad",
+      "y": 2013,
+      "k": [
+        "html",
+        "css",
+        "php",
+        "design",
+        "architects",
+        "completed"
+      ],
+      "l": "http://ncarchitects.in"
+    },
+    {
+      "t": "Images and Imprints",
+      "d": "Exhibition website for Prof. Miki Desai",
+      "y": 2013,
+      "k": [
+        "drupal",
+        "design",
+        "featured",
+        "completed"
+      ],
+      "l": "http://imagesandimprints.com"
+    },
 
-{
-  "t": "Jay Soni",
-  "d": "Website for a Photographer friend",
-  "y": 2011,
-  "k": [
-    "html",
-    "css",
-    "javascript",
-    "experiment",
-    "completed",
-    "design",
-    "php",
-    "featured"
-  ],
-  "l": "http://jaysoni.net"
-},
-{
-  "t": "Fare Map",
-  "d": "Mapping public transport fares",
-  "y": 2011,
-  "k": [
-    "html",
-    "css",
-    "javascript",
-    "experiment",
-    "initiative",
-    "ongoing",
-    "design",
-    "featured"
-  ],
-  "l": "http://faremap.in"
-},
-{
-  "t": "Vishal Raman",
-  "d": "Film Maker based in Mumbai",
-  "y": 2012,
-  "k": [
-    "html",
-    "css",
-    "javascript",
-    "experiment",
-    "completed",
-    "design",
-    "featured"
-  ],
-  "l": "http://vishalraman.com"
-},
-{
-  "t": "Kesarjan",
-  "d": "Environment friendly, alternative materials manufacturer",
-  "y": 2011,
-  "k": [
-    "drupal",
-    "completed",
-    "design"
-  ],
-  "l": "http://kesarjan.com"
-},
-{
-  "t": "Adapitektur",
-  "d": "Architectural Design office in UK",
-  "y": 2011,
-  "k": [
-    "drupal",
-    "completed",
-    "architects"
-  ],
-  "l": "http://adapitektur.com"
-},
-{
-  "t": "Vaibhav Arekar",
-  "d": "Classical Indian dance artist and teacher based in Mumbai",
-  "y": 2011,
-  "k": [
-    "drupal",
-    "completed",
-    "design"
-  ],
-  "l": "http://vaibhavarekar.com"
-},
-{
-  "t": "AMTS Info",
-  "d": "Easily accessible bus-routes information for AMTS Ahmedabad",
-  "y": 2009,
-  "k": [
-    "drupal",
-    "experiment",
-    "initiative",
-    "ongoing",
-    "featured"
-  ],
-  "l": "http://amtsinfo.in"
-},
-{
-  "t": "A Cube Inc",
-  "d": "Website for Anuj and Anand Ambalal",
-  "y": 2009,
-  "k": [
-    "joomla",
-    "completed"
-  ],
-  "l": "http://acubeinc.net"
-},
-{
-  "t": "Anthill Design",
-  "d": "Collaborative Architectural design studio based in Ahmedabad",
-  "y": 2009,
-  "k": [
-    "drupal",
-    "completed",
-    "architects"
-  ],
-  "l": "http://anthilldesign.com"
-},
-{
-  "t": "Archicrafts",
-  "d": "Archicrafts is engaged in practice, research and documentation",
-  "y": 2009,
-  "k": [
-    "html",
-    "css",
-    "customization",
-    "completed",
-    "featured"
-  ],
-  "l": "http://archicrafts.com"
-},
-{
-  "t": "Dilip Soni Architects",
-  "d": "Architectural Design firm based in Ahmedabad",
-  "y": 2009,
-  "k": [
-    "drupal",
-    "completed",
-    "architects",
-    "featured"
-  ],
-  "l": "http://dilipsoniarchitects.com"
-},
-{
-  "t": "Banduk Smith Studio",
-  "d": "Architectural Design firm based in Ahmedabad",
-  "y": 2012,
-  "k": [
-    "drupal",
-    "completed",
-    "architects",
-    "featured"
-  ],
-  "l": "http://banduksmithstudio.in"
-},
-{
-  "t": "Matha Chhaj",
-  "d": "Mathachhaj is a partnership firm which produces and installs thatch roofs",
-  "y": 2011,
-  "k": [
-    "drupal",
-    "completed",
-    "design"
-  ],
-  "l": "http://mathachhaj.com"
-},
-{
-  "t": "COVMO",
-  "d": "COVMO Ltd. is a leading UK wholesaler of automotive parts",
-  "y": 2012,
-  "k": [
-    "drupal",
-    "completed",
-    "ecommerce",
-    "featured"
-  ],
-  "l": "http://covmo.com"
-},
-{
-  "t": "Indigo Architects",
-  "d": "Architecture design firm based in Ahmedabad",
-  "y": 2010,
-  "k": [
-    "drupal",
-    "completed",
-    "architects",
-    "design"
-  ],
-  "l": "http://indigo.net.in"
-},
-{
-  "t": "Iora Studio",
-  "d": "Architecture, Landscape Design design firm based in Ahmedabad",
-  "y": 2011,
-  "k": [
-    "drupal",
-    "completed",
-    "architects",
-    "design"
-  ],
-  "l": "http://iorastudio.com"
-},
-{
-  "t": "Mayank Loonker",
-  "d": "Exhibition Designer and Faculty at NID, Ahmedabad",
-  "y": 2011,
-  "k": [
-    "drupal",
-    "completed",
-    "design"
-  ],
-  "l": "http://mayankloonker.com"
-},
-{
-  "t": "Structural Engineering Digest",
-  "d": "Online version of SEDigest, magazine for Structural engineers",
-  "y": 2011,
-  "k": [
-    "drupal",
-    "completed"
-  ],
-  "l": "http://sedigest.in"
-},
-{
-  "t": "Dr. Durgesh Jhaveri",
-  "d": "Senior Dentist based in Ahmedabad",
-  "y": 2008,
-  "k": [
-    "customization",
-    "html",
-    "css",
-    "design"
-  ],
-  "l": "http://drdurgeshjhaveri.com"
-},
-{
-  "t": "Environmental Design Consultants",
-  "d": "Landscape Architecture & Planning firm based in Ahmedabad",
-  "y": 2010,
-  "k": [
-    "drupal",
-    "completed",
-    "design"
-  ],
-  "l": "http://edc.org.in"
-},
-{
-  "t": "Form+OED",
-  "d": "Design Engineering firm based in Ahmedabad",
-  "y": 2010,
-  "k": [
-    "drupal",
-    "completed",
-    "design",
-    "featured"
-  ],
-  "l": "http://formoed.com"
-},
-{
-  "t": "Freitagmann",
-  "d": "Design Engineering firm based in Ahmedabad",
-  "y": 2010,
-  "k": [
-    "drupal",
-    "completed",
-    "design"
-  ],
-  "l": "http://freitagmann.com"
-},
-{
-  "t": "Rishi Singhal",
-  "d": "Photographer based in New Delhi",
-  "y": 2008,
-  "k": [
-    "html",
-    "completed",
-    "featured",
-    "css",
-    "php",
-    "customization"
-  ],
-  "l": "http://rishisinghal.com"
-},
-{
-  "t": "Kamal Mangaldas",
-  "d": "Senior Architect based in Ahmedabad",
-  "y": 2013,
-  "k": [
-    "drupal",
-    "completed",
-    "architects"
-  ],
-  "l": "http://kamalmangaldas.net"
-},
-{
-  "t": "Vishal Mehta",
-  "d": "Transport policy consultant based in Ahmedabad",
-  "y": 2008,
-  "k": [
-    "html",
-    "completed",
-    "css",
-    "php",
-    "customization",
-    "design"
-  ],
-  "l": "http://vishal-mehta.com"
-},
-{
-  "t": "Indian Society of Advertisers",
-  "d": "Peak national body for Indian Advertisers",
-  "y": 2012,
-  "k": [
-    "joomla",
-    "completed",
-    "design"
-  ],
-  "l": "http://isanet.org.in"
-},
-{
-  "t": "Nikunj Choradiya",
-  "d": "Architect / Sculptor based in Ahmedabad",
-  "y": 2010,
-  "k": [
-    "php",
-    "completed",
-    "design",
-    "html",
-    "css",
-    "customization",
-    "architects"
-  ],
-  "l": "http://nikunjchoradiya.com"
-},
-{
-  "t": "Rajiv Vyas",
-  "d": "Architect based in Ahmedabad",
-  "y": 2010,
-  "k": [
-    "php",
-    "completed",
-    "html",
-    "css",
-    "customization",
-    "architects"
-  ],
-  "l": "http://rajivvyas.com"
-}
+    {
+      "t": "Jay Soni",
+      "d": "Website for a Photographer friend",
+      "y": 2011,
+      "k": [
+        "html",
+        "css",
+        "javascript",
+        "experiment",
+        "completed",
+        "design",
+        "php",
+        "featured"
+      ],
+      "l": "http://jaysoni.net"
+    },
+    {
+      "t": "Fare Map",
+      "d": "Mapping public transport fares",
+      "y": 2011,
+      "k": [
+        "html",
+        "css",
+        "javascript",
+        "experiment",
+        "initiative",
+        "ongoing",
+        "design",
+        "featured"
+      ],
+      "l": "http://faremap.in"
+    },
+    {
+      "t": "Vishal Raman",
+      "d": "Film Maker based in Mumbai",
+      "y": 2012,
+      "k": [
+        "html",
+        "css",
+        "javascript",
+        "experiment",
+        "completed",
+        "design",
+        "featured"
+      ],
+      "l": "http://vishalraman.com"
+    },
+    {
+      "t": "Kesarjan",
+      "d": "Environment friendly, alternative materials manufacturer",
+      "y": 2011,
+      "k": [
+        "drupal",
+        "completed",
+        "design"
+      ],
+      "l": "http://kesarjan.com"
+    },
+    {
+      "t": "Adapitektur",
+      "d": "Architectural Design office in UK",
+      "y": 2011,
+      "k": [
+        "drupal",
+        "completed",
+        "architects"
+      ],
+      "l": "http://adapitektur.com"
+    },
+    {
+      "t": "Vaibhav Arekar",
+      "d": "Classical Indian dance artist and teacher based in Mumbai",
+      "y": 2011,
+      "k": [
+        "drupal",
+        "completed",
+        "design"
+      ],
+      "l": "http://vaibhavarekar.com"
+    },
+    {
+      "t": "AMTS Info",
+      "d": "Easily accessible bus-routes information for AMTS Ahmedabad",
+      "y": 2009,
+      "k": [
+        "drupal",
+        "experiment",
+        "initiative",
+        "ongoing",
+        "featured"
+      ],
+      "l": "http://amtsinfo.in"
+    },
+    {
+      "t": "A Cube Inc",
+      "d": "Website for Anuj and Anand Ambalal",
+      "y": 2009,
+      "k": [
+        "joomla",
+        "completed"
+      ],
+      "l": "http://acubeinc.net"
+    },
+    {
+      "t": "Anthill Design",
+      "d": "Collaborative Architectural design studio based in Ahmedabad",
+      "y": 2009,
+      "k": [
+        "drupal",
+        "completed",
+        "architects"
+      ],
+      "l": "http://anthilldesign.com"
+    },
+    {
+      "t": "Archicrafts",
+      "d": "Archicrafts is engaged in practice, research and documentation",
+      "y": 2009,
+      "k": [
+        "html",
+        "css",
+        "customization",
+        "completed",
+        "featured"
+      ],
+      "l": "http://archicrafts.com"
+    },
+    {
+      "t": "Dilip Soni Architects",
+      "d": "Architectural Design firm based in Ahmedabad",
+      "y": 2009,
+      "k": [
+        "drupal",
+        "completed",
+        "architects",
+        "featured"
+      ],
+      "l": "http://dilipsoniarchitects.com"
+    },
+    {
+      "t": "Banduk Smith Studio",
+      "d": "Architectural Design firm based in Ahmedabad",
+      "y": 2012,
+      "k": [
+        "drupal",
+        "completed",
+        "architects",
+        "featured"
+      ],
+      "l": "http://banduksmithstudio.in"
+    },
+    {
+      "t": "Matha Chhaj",
+      "d": "Mathachhaj is a partnership firm which produces and installs thatch roofs",
+      "y": 2011,
+      "k": [
+        "drupal",
+        "completed",
+        "design"
+      ],
+      "l": "http://mathachhaj.com"
+    },
+    {
+      "t": "COVMO",
+      "d": "COVMO Ltd. is a leading UK wholesaler of automotive parts",
+      "y": 2012,
+      "k": [
+        "drupal",
+        "completed",
+        "ecommerce",
+        "featured"
+      ],
+      "l": "http://covmo.com"
+    },
+    {
+      "t": "Indigo Architects",
+      "d": "Architecture design firm based in Ahmedabad",
+      "y": 2010,
+      "k": [
+        "drupal",
+        "completed",
+        "architects",
+        "design"
+      ],
+      "l": "http://indigo.net.in"
+    },
+    {
+      "t": "Iora Studio",
+      "d": "Architecture, Landscape Design design firm based in Ahmedabad",
+      "y": 2011,
+      "k": [
+        "drupal",
+        "completed",
+        "architects",
+        "design"
+      ],
+      "l": "http://iorastudio.com"
+    },
+    {
+      "t": "Mayank Loonker",
+      "d": "Exhibition Designer and Faculty at NID, Ahmedabad",
+      "y": 2011,
+      "k": [
+        "drupal",
+        "completed",
+        "design"
+      ],
+      "l": "http://mayankloonker.com"
+    },
+    {
+      "t": "Structural Engineering Digest",
+      "d": "Online version of SEDigest, magazine for Structural engineers",
+      "y": 2011,
+      "k": [
+        "drupal",
+        "completed"
+      ],
+      "l": "http://sedigest.in"
+    },
+    {
+      "t": "Dr. Durgesh Jhaveri",
+      "d": "Senior Dentist based in Ahmedabad",
+      "y": 2008,
+      "k": [
+        "customization",
+        "html",
+        "css",
+        "design"
+      ],
+      "l": "http://drdurgeshjhaveri.com"
+    },
+    {
+      "t": "Environmental Design Consultants",
+      "d": "Landscape Architecture & Planning firm based in Ahmedabad",
+      "y": 2010,
+      "k": [
+        "drupal",
+        "completed",
+        "design"
+      ],
+      "l": "http://edc.org.in"
+    },
+    {
+      "t": "Form+OED",
+      "d": "Design Engineering firm based in Ahmedabad",
+      "y": 2010,
+      "k": [
+        "drupal",
+        "completed",
+        "design",
+        "featured"
+      ],
+      "l": "http://formoed.com"
+    },
+    {
+      "t": "Freitagmann",
+      "d": "Design Engineering firm based in Ahmedabad",
+      "y": 2010,
+      "k": [
+        "drupal",
+        "completed",
+        "design"
+      ],
+      "l": "http://freitagmann.com"
+    },
+    {
+      "t": "Rishi Singhal",
+      "d": "Photographer based in New Delhi",
+      "y": 2008,
+      "k": [
+        "html",
+        "completed",
+        "featured",
+        "css",
+        "php",
+        "customization"
+      ],
+      "l": "http://rishisinghal.com"
+    },
+    {
+      "t": "Kamal Mangaldas",
+      "d": "Senior Architect based in Ahmedabad",
+      "y": 2013,
+      "k": [
+        "drupal",
+        "completed",
+        "architects"
+      ],
+      "l": "http://kamalmangaldas.net"
+    },
+    {
+      "t": "Vishal Mehta",
+      "d": "Transport policy consultant based in Ahmedabad",
+      "y": 2008,
+      "k": [
+        "html",
+        "completed",
+        "css",
+        "php",
+        "customization",
+        "design"
+      ],
+      "l": "http://vishal-mehta.com"
+    },
+    {
+      "t": "Indian Society of Advertisers",
+      "d": "Peak national body for Indian Advertisers",
+      "y": 2012,
+      "k": [
+        "joomla",
+        "completed",
+        "design"
+      ],
+      "l": "http://isanet.org.in"
+    },
+    {
+      "t": "Nikunj Choradiya",
+      "d": "Architect / Sculptor based in Ahmedabad",
+      "y": 2010,
+      "k": [
+        "php",
+        "completed",
+        "design",
+        "html",
+        "css",
+        "customization",
+        "architects"
+      ],
+      "l": "http://nikunjchoradiya.com"
+    },
+    {
+      "t": "Rajiv Vyas",
+      "d": "Architect based in Ahmedabad",
+      "y": 2010,
+      "k": [
+        "php",
+        "completed",
+        "html",
+        "css",
+        "customization",
+        "architects"
+      ],
+      "l": "http://rajivvyas.com"
+    }
+]

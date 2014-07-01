@@ -5,6 +5,7 @@
   <!-- build:css style.min.css -->
   <link rel="stylesheet" href="css/style.css">
   <!-- endbuild -->
+  <link href='http://fonts.googleapis.com/css?family=Signika:300' rel='stylesheet' type='text/css'>
 </head>
 <body>
 <div id="wrapper" ng-controller="listController">
@@ -17,19 +18,26 @@
     </ul>
     </div>
     <div id="filters">
-      <?php print $filters ?>
+
+      <ul class="filter">
+        <li ng-repeat="keyword in keywords">
+          <a href="#" data-filter=".{{ keyword }}" ng-click="filter(keyword)">{{ keyword }}</a>
+        </li>
+      </ul>
+      
     </div>
     
-      <div class="list">
 
-      <div ng-repeat="work in works" class="element" data-href="{{ work.l }}" data-year="{{ work.y }}">
+    <div class="list">
+
+      <div ng-repeat="work in works" class="element {{ work.class }}" data-href="{{ work.l }}" data-year="{{ work.y }}">
         <div class="content">
           <div class="title">{{ work.t }}</div>
           <div class="description">{{ work.d }}</div>
         </div>
       </div>
-        
-      </div>
+      
+    </div>
 
 
     
@@ -44,7 +52,8 @@
 </div>
 
 </body>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
 <!-- build:js script.js -->
 <script src="bower_components/angular/angular.min.js"></script>
 <script src="bower_components/angular-resource/angular-resource.min.js"></script>

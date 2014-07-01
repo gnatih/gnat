@@ -4,7 +4,7 @@ $(function(){
   l = $("#left");
   r = $("#right");
 
-  scroller = $('.box-wrap').antiscroll();
+  // scroller = $('.box-wrap').antiscroll();
 
   // l.hover(function(){
   //   w.addClass("active");

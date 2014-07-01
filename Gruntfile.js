@@ -8,9 +8,11 @@ module.exports = function(grunt){
     useminPrepare: {
         html: 'index.html',
         options: {
-          dest: 'dist'
+          dest: './'
         }
     },
+
+    clean: ['js/vendor.min.js'],
     
     connect: {
       dev: {
@@ -21,16 +23,10 @@ module.exports = function(grunt){
       }
     },
 
-    usemin:{
-      html:['dist/index.html']
-    },
-
-    copy:{
-      html: {
-        src: './index.html', dest: 'dist/index.html'
-      },
-      assets: {
-        src: ['img/**'], dest: 'dist/'
+    concat: {
+      dist: {
+        src: ['bower_components/jquery/dist/jquery.min.js', 'bower_components/angular/angular.min.js', 'bower_components/angular-resource/angular-resource.min.js', 'bower_components/isotope/jquery.isotope.min.js'],
+        dest: 'js/vendor.min.js'
       }
     },
 
@@ -44,8 +40,9 @@ module.exports = function(grunt){
         files: ['css/*.css'],
       },
 
-      html: {
-        files: [ 'index.html' ],
+      js: {
+        files: ['index.html', 'js/app.js', 'js/script.js'],
+        tasks: ['clean', 'newer:concat']
       },
 
       livereload: {
